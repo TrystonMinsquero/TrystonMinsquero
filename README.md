@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+If you are from ID and looking for C++ code, you're not going to find it 🙂
+
+Most of my C++ is proprietary; the rest of these repos I do are for fun, so you'll see more projects in new languages I'm interested in learning. 
+
+Most recent ones have been in Golang and Zig.
+
 <!--
 **TrystonMinsquero/TrystonMinsquero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
