@@ -7,7 +7,7 @@ Most of my C++ is proprietary; the rest of these repos I do are for fun, so you'
 - I'm currently working on a multiplayer rogue-like FPS in Unreal using GAS and C++ (not open-source)
 - My most recent project was a game I made for my partner for Christmas called [libble.you](https://github.com/TrystonMinsquero/libble), which is Golang.
     - I've made other games using Discord bots as well, like [Fiction](https://github.com/TrystonMinsquero/Fiction)
-- I love configuring my nevom config and terminal setup with my [dotfiles](https://github.com/TrystonMinsquero/dotfiles). Really helps gamify programming and keep me in the flow state.
+- I love configuring my Neovim config and terminal setup with my [dotfiles](https://github.com/TrystonMinsquero/dotfiles). Really helps gamify programming and keep me in the flow state.
 - Love exploring low-level libraries and languages
      - Learned Golang over the last year
      - I set up hot-reloading with Raylib in Zig (another C successor)
